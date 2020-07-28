@@ -1,0 +1,22 @@
+{
+	"name": "php-datetime",
+	"version": "0.5.0",
+	"description": "The date() and time() functions of PHP in Javascript.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Hkrabs/php-datetime.js.git"
+	},
+	"keywords": [
+		"php",
+		"date",
+		"time",
+		"format"
+	],
+	"author": "Hkrabs",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/Hkrabs/php-datetime.js/issues"
+	},
+	"homepage": "https://github.com/Hkrabs/php-datetime.js#readme"
+}
