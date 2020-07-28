@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Hkrabs/php-datetime.js.git"
+		"url": "git+https://github.com/Hkrabs/phpdatetime.js.git"
 	},
 	"keywords": [
 		"php",
@@ -16,7 +16,7 @@
 	"author": "Hkrabs",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Hkrabs/php-datetime.js/issues"
+		"url": "https://github.com/Hkrabs/phpdatetime.js/issues"
 	},
-	"homepage": "https://github.com/Hkrabs/php-datetime.js#readme"
+	"homepage": "https://github.com/Hkrabs/phpdatetime.js#readme"
 }
