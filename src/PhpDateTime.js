@@ -68,4 +68,4 @@ class PhpDateTime {
 	}
 }
 
-exports.PhpDateTime = PhpDateTime;
+module.exports = PhpDateTime;

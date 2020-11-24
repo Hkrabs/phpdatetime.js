@@ -1,2 +1,2 @@
 const datetime = require('./src/PhpDateTime');
-exports.datetime = new datetime();
+module.exports = new datetime();
